@@ -1,0 +1,15 @@
+{
+    "name": "copperwall/composer-test-stuff",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Opperwall",
+            "email": "copperwall@example.com"
+        }
+    ],
+    "require": {},
+    "archive": {
+	    "exclude": ["test/", ".hhconfig"]
+    }
+}
